@@ -33,6 +33,25 @@ The star schema consists of:
 
 ---
 
+## 📂 Project Structure
+
+```
+data-warehouse-for-retail/
+├── sql/
+│ ├── 01_create_star_schema.sql
+│ ├── 02_insert_mock_data.sql
+│ └── 03_kpi_queries.sql
+├── data/
+│ ├── fact_sales.csv
+│ ├── dim_customer.csv
+│ └── ...
+├── images/
+│ └── (screenshots of queries or schema)
+└── README.md
+```
+
+---
+
 ## 🚀 Key Features
 
 - Star schema modeling with dimension & fact tables
