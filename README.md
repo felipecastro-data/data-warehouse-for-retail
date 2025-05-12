@@ -20,8 +20,6 @@ The star schema consists of:
 - `dim_store`: location info
 - `dim_date`: time dimension
 
-![Star Schema](images/star_schema_diagram.png)
-
 ---
 
 ## 🔁 Workflow
