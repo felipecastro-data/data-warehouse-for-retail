@@ -41,6 +41,10 @@ data-warehouse-for-retail/
 │ ├── 01_create_star_schema.sql
 │ ├── 02_insert_mock_data.sql
 │ └── 03_kpi_queries.sql
+├── data/
+│ ├── fact_sales.csv
+│ ├── dim_customer.csv
+│ └── ...
 ├── images/
 │ └── (screenshots of queries or schema)
 └── README.md
