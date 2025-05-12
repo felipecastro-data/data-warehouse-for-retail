@@ -41,14 +41,26 @@ data-warehouse-for-retail/
 │ ├── 01_create_star_schema.sql
 │ ├── 02_insert_mock_data.sql
 │ └── 03_kpi_queries.sql
-├── data/
-│ ├── fact_sales.csv
-│ ├── dim_customer.csv
-│ └── ...
 ├── images/
 │ └── (screenshots of queries or schema)
 └── README.md
 ```
+
+---
+
+## 🖼️ Visual Overview
+
+### 1. Star Schema Creation (SQL)
+![Star Schema](images/1_create_star_schema.png)
+
+### 2. Insert Mock Data
+![Insert Mock Data](images/2_insert_mock_data.png)
+
+### 3. KPI Queries
+![KPI Queries](images/3_kpi_queries.png)
+
+### 4. Git Terminal Commands
+![Git Terminal](images/4_terminal_git_commit_push.png)
 
 ---
 
