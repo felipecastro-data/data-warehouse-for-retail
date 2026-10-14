@@ -86,7 +86,7 @@ data-warehouse-for-retail/
 ## 🏅 Author & Certifications
 
 **Felipe Castro**
-Senior Data Analytics Engineer @ EPAM Systems
+Senior Data Engineer @ EPAM Systems
 
 - 🏅 **[DP-700: Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/96572499DF943EBC?sharingId=13D660F56C1DFFA3)**
 - 🏅 **[DP-600: Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)**
